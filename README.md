@@ -39,3 +39,7 @@ python test_environment.py    # should print "Environment OK"
 ---
 
 *Starter file for Lab 1 — lab-1-git-workflows | aispire-14005*
+
+# Hospital Admission Records Analysis
+
+This project sets up a reproducible Python environment for analyzing hospital admission data for a regional health authority.
